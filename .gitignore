@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+models/
+voices/*.wav
+voices/*.mp3
+!voices/.gitkeep
+results/
+*.log
